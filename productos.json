@@ -1,0 +1,67 @@
+{
+   "productos":[
+      {
+         "id":"1",
+         "nombre":"Motor de Arranque",
+         "marca":"YOKOBO",
+         "imagen":"https://scontent.fgye7-1.fna.fbcdn.net/v/t1.0-0/p180x540/79618377_150880876260853_6704119386967375872_o.jpg?_nc_cat=110&_nc_ohc=3VTUR5SM8JoAQmeR7beZvecC8HGH9_aZYHo2K60k0zIBb38REsJk2DBIA&_nc_ht=scontent.fgye7-1.fna&oh=57a85ec0cebfca5d52129bad16fe7248&oe=5E847D86",
+         "oferta":"N",
+         "precio":"120.00",
+         "descuento":"0"
+      },
+      {
+         "id":"2",
+         "nombre":"Alternador",
+         "marca":"YOKOBO",
+         "imagen":"https://scontent.fgye7-1.fna.fbcdn.net/v/t1.0-9/s960x960/76989415_150880859594188_5480525733103140864_o.jpg?_nc_cat=101&_nc_ohc=UuHYtruzwPUAQnJo-srKapOPUm9KIWFh7t99R-lkrW_UiSBUBpr5LFhaw&_nc_ht=scontent.fgye7-1.fna&oh=220ef0e04355e5521d01256fcd058be2&oe=5E3EDA79",
+         "oferta":"N",
+         "precio":"115.00",
+         "descuento":"0"
+      },
+      {
+         "id":"3",
+         "nombre":"Regulador de Voltaje",
+         "marca":"Marco",
+         "imagen":"https://scontent.fgye7-1.fna.fbcdn.net/v/t1.0-0/p180x540/78841810_150880939594180_4556646278817120256_o.jpg?_nc_cat=105&_nc_ohc=WYk8lu_WQe4AQmBpezxbFuyL62nBaXvPXg90mTPY94-v97yboMLmvqqmw&_nc_ht=scontent.fgye7-1.fna&oh=20efd6e260b72eff8620ca27ff47a4f2&oe=5E7CA607",
+         "oferta":"N",
+         "precio":"35.00",
+         "descuento":"0"
+      },
+      {
+         "id":"4",
+         "nombre":"PortaCarbon",
+         "marca":"Holder",
+         "imagen":"https://scontent.fgye7-1.fna.fbcdn.net/v/t1.0-0/p180x540/79152083_150880866260854_7764841511530790912_o.jpg?_nc_cat=100&_nc_ohc=knQ75Mqbn48AQnVlN-hz1IaBEq3_iz-6sEZqPlCW5YVLUcZLmsuJXO3vA&_nc_ht=scontent.fgye7-1.fna&oh=589abe8f875914897f2bb4e7b5c4a700&oe=5E7A798F",
+         "oferta":"N",
+         "precio":"28.00",
+         "descuento":"0"
+      },
+      {
+         "id":"5",
+         "nombre":"Flasher",
+         "marca":"GEN",
+         "imagen":"https://scontent.fgye7-1.fna.fbcdn.net/v/t1.0-0/p180x540/78841146_150880919594182_8981055943429062656_o.jpg?_nc_cat=100&_nc_ohc=adXVEoN7DGAAQlTGTJ7DYygMzVpzDsjJNPEfHIraRaDKizDzTkPquj9vg&_nc_ht=scontent.fgye7-1.fna&oh=a784796b9642e246b7946fb2ebe26a2c&oe=5E7CC012",
+         "oferta":"N",
+         "precio":"12.00",
+         "descuento":"0"
+      },
+      {
+         "id":"6",
+         "nombre":"Guia Trasera",
+         "marca":"UNIVERSAL",
+         "imagen":"https://scontent.fgye7-1.fna.fbcdn.net/v/t1.0-0/p180x540/79798225_150880949594179_2023428074615341056_o.jpg?_nc_cat=101&_nc_ohc=a4aOPPXNO30AQm0TUFm08ZW9UR9JUAQc3qqXbm2DR7qHZgrIC2t6RknBA&_nc_ht=scontent.fgye7-1.fna&oh=76e13fe5f82fd0b51c0b45232f1c21d2&oe=5E8329D1",
+         "oferta":"S",
+         "precio":"15.00",
+         "descuento":"2"
+      },
+      {
+         "id":"7",
+         "nombre":"Motor de Arranque",
+         "marca":"YOKOBO",
+         "imagen":"https://scontent.fgye7-1.fna.fbcdn.net/v/t1.0-0/p180x540/79618377_150880876260853_6704119386967375872_o.jpg?_nc_cat=110&_nc_ohc=3VTUR5SM8JoAQmeR7beZvecC8HGH9_aZYHo2K60k0zIBb38REsJk2DBIA&_nc_ht=scontent.fgye7-1.fna&oh=57a85ec0cebfca5d52129bad16fe7248&oe=5E847D86",
+         "oferta":"N",
+         "precio":"120.00",
+         "descuento":"0"
+      }
+   ]
+}
